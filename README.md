@@ -16,7 +16,7 @@ As part of **Redesign A Mobile App,GHW Day 6 Challenge**, I chose Whatsapp.
 <h2>Whatsapp Chats</h2>
 
 <img width="375" alt="WhatsApp Chats" src="https://user-images.githubusercontent.com/77736746/190626257-090681f5-acc6-4d70-8740-61d0b5367731.png">
-<h2>Whatsapp Chat in Potrait mode (for reference)</h2>
+<h2>Whatsapp Chat in Portrait mode (for reference)</h2>
 
 <img width="375" alt="WhatsApp Chat Potrait" src="https://user-images.githubusercontent.com/77736746/190626226-8298b218-9e5d-4fc0-bf81-c85f11033947.png">
 
