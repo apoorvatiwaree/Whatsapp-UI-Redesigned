@@ -3,13 +3,13 @@
 <h1 align = "center"> Whatsapp-UI-Redesigned </h1>
 <h2 align = "center"> A new take on the existing iOS Whatsapp UI </h2>
 
-As part of **Redesign Your Favorite Website,GHW Day 6 Challenge**, I chose Whatsapp. 
+As part of **Redesign A Mobile App,GHW Day 6 Challenge**, I chose Whatsapp. 
 
 <a href = "https://www.figma.com/file/yjlJn9N49i1bAd81kdupOb/WhatsApp-UI?node-id=0%3A8102">Figma Wireframe link</a>
 <h3>New Functionalities : </h3>
 <ul>
-<li>Option to view **Frequently contacted chats on top** </li>
-<li>Providing the functionality to access **Two chats simultaneously** in Landscape mode </li>
+<li>Option to view <b>Frequently contacted chats on top</b> </li>
+<li>Providing the functionality to access <b>Two chats simultaneously</b> in Landscape mode </li>
 </ul>
 
 <h1>Wireframe Screens : <h1>
